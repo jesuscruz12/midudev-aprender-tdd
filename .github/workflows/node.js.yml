@@ -16,6 +16,6 @@ jobs:
     - name: 'hola mundo'
       run: echo "hola mundo"
     - name: dime la fecha
-      run: echo date
+      run: date
     - name: muestra el contenido del directorio
       run: ls -la
