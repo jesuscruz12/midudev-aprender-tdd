@@ -8,7 +8,7 @@
     "build": "vite build",
     "dev": "vite",
     "test": "vitest",
-    "lint": "standard",
+    "lint": "standard \"src/**/*.js\"",
     "coverage": "vitest run --coverage"
   },
   "keywords": [],
